@@ -7,7 +7,7 @@ class BinarySearch {
             mid = (beg + end)/2;    
             if(a[mid] == val)    
             {    
-                return mid+1;   
+                return mid;   
  
             }    
          
